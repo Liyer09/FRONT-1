@@ -1,0 +1,68 @@
+body{
+    background-color: gray;
+}
+
+#contenedor{
+    width: 80%;
+    background-color: white;
+    margin: auto;
+}
+
+.centrado{
+    text-align: center;
+    align-items: center;
+}
+
+#blanco{
+    height: 70px;
+}
+
+.titulo{
+    letter-spacing: 10px;
+    background-color: grey;
+    color: rgb(34, 34, 110);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    letter-spacing: 5px;
+    text-align: left;
+    font-weight: bold;
+    background-color: rgb(170, 169, 169);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: rgb(45, 45, 116);
+
+}
+
+.cursiva{
+    font-style: italic;
+}
+
+span{
+    font-weight: bold;
+
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: azure;
+}
+
+.propiedades{
+    display: inline-flex;
+}
+
+#BannerEncabezado {
+    background-image: url("https://2.bp.blogspot.com/-ZCmeOayVOaw/WRETh4WHFUI/AAAAAAAAAjs/z-4ShiWbyWY5adMhTruwIdBe81oEsWDIgCLcB/s1600/fondo.jpg"
+    );
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#fotoPersonal {
+    width: 15%;
+}
